@@ -32,19 +32,16 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous:
 * __Utiliser la barre d'outil de développement pour inspecter les images__ et juger de la qualité des attributs *alt*. __Prendre une capture-écran et la joindre ci-dessous.__
 *  __Les textes alternatifs sont-ils adéquats ?__ Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
- 
-[capture-écran-à-ajouter]()
+
+##### Le soleil
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran-à-ajouter]()
-- https://www.rad.ca/  
------
------
------ 
- 
- 
+![Image du Soleil montrant le alt des images](/images/CapturesImages/img1.png)
+Je crois qu'il y a deux problèmes sur la page d'accueil. Premièrement, le logo principal en haut de la page n'a aucun alt, alors qu'il sagit du bouton pour aller à la page principale.
+Deuxièment, le bouton pour accéder à son profil n'a aucun alt, alors que aucun texte n'est présent pour l'indiquer. 
+
+- https://www.lesoleil.com/  
+![Image du Soleil montrant le alt des images](/images/CapturesImages/img2.png)
+Ici, le texte alternatif est déja présent en dessous, il y a donc une rédondance de l'information. Je crois qu'il aurais été mieux de ne rien mettre dans le alt.  
 
 ### 2. Structurer avec les h1-h6 une table des matières
 
