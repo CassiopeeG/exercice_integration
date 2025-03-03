@@ -57,9 +57,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+Ici, la table des matières était très bien, avec un h1 présent, puis 3 h2 bien structurés. 
 
 __L’affaire Savtchenko__ 
 [Article](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko.pdf)  
@@ -67,9 +65,9 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+Dans cette exemple, je crois qu'il y a quelques erreurs. Premièrement, il manque un premier H1, mais ce problème est surtout causé par l'assignation de H2 au élément de Navigation, ce qui ne semble pas optimal. 
+
+Ensuite, le h2 pour l'élément sous l'image me semble une mauvaise idée, car c'est plus un paragraphe/caption qu'un titre. 
 
 
 #### 2.2 S'exercer à bien structurer
@@ -78,7 +76,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+![Image du Soleil montrant le alt des images](/images/CapturesImages/resultat.png)
 
 ### 3. Baliser un tableau de données pour qu’il soit accessible
 
@@ -100,7 +98,7 @@ Styler le tableau conformément au fichier [consommation-poissons.pdf](images/3-
 •	balisage html : https://www.w3schools.com/TAGs/tag_table.asp
 •	balisage css de tableau: https://www.w3schools.com/css/css_table.asp
 
-
+VOIR HTML POUR LE TABLEAU
 
 
 
