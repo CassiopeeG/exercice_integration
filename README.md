@@ -2,8 +2,8 @@
 
 ## Équipe 
 Travailler à 2 ou maximum 3. Chacun versionne individuellement mais les réponses et le code peuvent être identiques.
-- Prénom nom
-- Prénom nom
+- Cassiopée Gariépy
+- Coralie Beauvais
 
 ## Objectifs
 - Expérimenter le versionnage de fichiers avec GIT
